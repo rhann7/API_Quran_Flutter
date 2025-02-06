@@ -1,3 +1,3 @@
 # learnapi
 
-A new Flutter project.
+Belajar mengambil dan menampilkan API dengan Flutter.
